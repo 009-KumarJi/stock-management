@@ -1,2 +1,2 @@
-# stock-management
+# Inventory-Management-Program
 This is my first python-sql link program. The Inventory Management Program is a robust and user-friendly application developed in Python, with data storage and retrieval handled through a MySQL database. This project is designed to efficiently oversee and control the flow of commodities within an inventory, making it an invaluable tool for businesses, warehouses, and organizations aiming to optimize their inventory management processes

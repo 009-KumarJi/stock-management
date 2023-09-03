@@ -1,4 +1,4 @@
-#                           STOCK MANAGEMENT PROGRAM MADE BY-
+#                           INVENTORY MANAGEMENT PROGRAM MADE BY-
 ##################################################################################
 #                                "KRISHNA KUMAR"  
 

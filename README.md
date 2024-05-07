@@ -1,6 +1,6 @@
 # Inventory Management System - command line (basic)
 
-This Inventory Management System is a Python-based application designed to facilitate efficient management of inventory-related tasks including product handling, order processing, sales tracking, user administration, and database management.
+This Inventory Management System is a Python-based application designed to facilitate efficient management of inventory-related tasks including product handling, order processing, user administration, and database management.
 
 ## Features
 
